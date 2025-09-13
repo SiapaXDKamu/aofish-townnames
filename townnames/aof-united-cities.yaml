@@ -1,0 +1,63 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Aoficia City
+    probability: 1
+  - name: Laut Aof City
+    probability: 1
+  - name: Koplington
+    probability: 1
+  - name: De Latin
+    probability: 1
+  - name: Vicevilla
+    probability: 1
+  - name: Liefield
+    probability: 1
+  - name: Carto City
+    probability: 1
+  - name: Les Des City
+    probability: 1
+  - name: Milanio
+    probability: 1
+  - name: Palepa City
+    probability: 1
+  - name: Dutchest
+    probability: 1
+  - name: Leeland
+    probability: 1
+  - name: Balatan
+    probability: 1
+  - name: Istanbelgia
+    probability: 1
+  - name: Thraces
+    probability: 1
+  - name: Aneroko Metropolis
+    probability: 1
+  - name: Narleopolis
+    probability: 1
+  - name: Cula Town
+    probability: 1
+  - name: Maladichy
+    probability: 1
+  - name: Nanieslona
+    probability: 1
+  - name: Dunake City
+    probability: 1
+  - name: Xan City
+    probability: 1
+  - name: Ban-Hurning
+    probability: 1
+  - name: Liamosa
+    probability: 1
+  - name: Neston
+    probability: 1
+  - name: Casa City
+    probability: 1
+  - name: Makoronch
+    probability: 1
+  - name: Walleston
+    probability: 1
+name: Aof United Cities
+source: null
+subsets: []

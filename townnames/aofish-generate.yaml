@@ -1,0 +1,196 @@
+available: true
+id: 1
+mainset:
+- names: []
+name: Aofish Generate
+source: null
+subsets:
+- name: Allentican
+  parts:
+  - names:
+    - name: Mas
+      probability: 1
+    - name: Bride
+      probability: 1
+    - name: Nade
+      probability: 1
+    - name: Pen
+      probability: 1
+    - name: Horkene
+      probability: 1
+    - name: Bande
+      probability: 1
+    - name: Bars
+      probability: 1
+    - name: Mose
+      probability: 1
+    - name: Aof
+      probability: 1
+    - name: Lane
+      probability: 1
+    - name: Pal
+      probability: 1
+    - name: Shire
+      probability: 1
+    - name: Nomore
+      probability: 1
+    - name: Males
+      probability: 1
+    - name: Jan
+      probability: 1
+    - name: Dudene
+      probability: 1
+    - name: Bal
+      probability: 1
+    - name: Sare
+      probability: 1
+    - name: Hade
+      probability: 1
+    - name: Posta
+      probability: 1
+    - name: Aner
+      probability: 1
+    - name: Maclukas
+      probability: 1
+    - name: Ean
+      probability: 1
+    - name: Frea
+      probability: 1
+    - name: Boe
+      probability: 1
+    - name: Bol
+      probability: 1
+    - name: Cre
+      probability: 1
+  - names:
+    - name: iy
+      probability: 1
+    - name: enica
+      probability: 1
+    - name: ian
+      probability: 1
+    - name: ia
+      probability: 1
+    - name: tica
+      probability: 1
+    - name: ik
+      probability: 1
+    - name: ieny
+      probability: 1
+    - name: ic
+      probability: 1
+    - name: iena
+      probability: 1
+    - name: ira
+      probability: 1
+- name: Native Aofish-Spanish
+  parts:
+  - names:
+    - name: 'De '
+      probability: 1
+    - name: 'Les '
+      probability: 1
+    - name: 'San '
+      probability: 1
+  - names:
+    - name: Latin
+      probability: 1
+    - name: Mar
+      probability: 1
+    - name: Sandor
+      probability: 1
+    - name: Latan
+      probability: 1
+    - name: Des
+      probability: 1
+    - name: Mac
+      probability: 1
+    - name: Vice
+      probability: 1
+    - name: Cara
+      probability: 1
+    - name: Bal
+      probability: 1
+    - name: Para
+      probability: 1
+    - name: Frea
+      probability: 1
+  - names:
+    - name: ia
+      probability: 1
+    - name: ica
+      probability: 1
+    - name: asen
+      probability: 1
+    - name: mala
+      probability: 1
+    - name: ilia
+      probability: 1
+    - name: ila
+      probability: 1
+    - name: villa
+      probability: 1
+    - name: icany
+      probability: 1
+    - name: atan
+      probability: 1
+    - name: atany
+      probability: 1
+    - name: lona
+      probability: 1
+    - name: len
+      probability: 1
+    - name: man
+      probability: 1
+- name: Native Aofish Spanish Short
+  parts:
+  - names:
+    - name: Latin
+      probability: 1
+    - name: Mar
+      probability: 1
+    - name: Sandor
+      probability: 1
+    - name: Latan
+      probability: 1
+    - name: Des
+      probability: 1
+    - name: Mac
+      probability: 1
+    - name: Vice
+      probability: 1
+    - name: Bal
+      probability: 1
+    - name: Cara
+      probability: 1
+    - name: Para
+      probability: 1
+    - name: Frea
+      probability: 1
+  - names:
+    - name: ia
+      probability: 1
+    - name: ica
+      probability: 1
+    - name: asen
+      probability: 1
+    - name: mala
+      probability: 1
+    - name: ilia
+      probability: 1
+    - name: ila
+      probability: 1
+    - name: villa
+      probability: 1
+    - name: atany
+      probability: 1
+    - name: atan
+      probability: 1
+    - name: icany
+      probability: 1
+    - name: lona
+      probability: 1
+    - name: len
+      probability: 1
+    - name: man
+      probability: 1
